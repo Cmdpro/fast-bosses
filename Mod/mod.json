@@ -1,0 +1,8 @@
+{
+    "id": "io.github.cmdpro.fast-bosses",
+    "name": "Fast Bosses",
+    "main": "FastBosses.dll",
+    "dependencies": [
+        "io.github.mio-modding.mio-modding-api"
+    ]
+}
